@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Discord Rich Presence for Youtube Music activity in any browser"
+repository = "https://github.com/hbacelar8/youtube-music-discord-rpc"
 readme = "README.md"
 keywords = ["discord", "youtube-music", "rich-presence",  "discord-rpc"]
 
