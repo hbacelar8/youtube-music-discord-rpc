@@ -1,6 +1,6 @@
 [package]
 name = "youtube-music-discord-rpc"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
 license = "MIT"
 description = "Discord Rich Presence for Youtube Music activity in any browser"
